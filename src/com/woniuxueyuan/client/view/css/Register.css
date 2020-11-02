@@ -1,0 +1,5 @@
+.root {
+    -fx-background-image: url("../image/123456.gif");
+    -fx-background-position: center center;
+    -fx-background-size: cover;
+}

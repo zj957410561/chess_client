@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chess_server">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../chess_server" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
